@@ -19,6 +19,7 @@
 #include <calendar.newzealand>
 #include <calendar.russian>
 #include <calendar.southafrica>
+#include <calendar.space>
 #include <calendar.ukrainian>
 #include <calendar.usholiday>
 
